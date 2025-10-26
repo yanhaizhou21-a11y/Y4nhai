@@ -1,16 +1,57 @@
-# Y4nhai
-<h1 align="center">Hi 👋, I'm Yanhai zhou</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# 👋 Hi there, I'm yanhaizhou
 
-- 🌱 I’m currently learning **Laravel**
+🚀 **Full-Stack Web Developer | PHP & Laravel Specialist**
 
-- 💬 Ask me about **laravel**
+Welcome to my GitHub profile! I’m a passionate developer focused on building robust, scalable, and elegant web applications using modern technologies.  
+I enjoy turning complex problems into clean, efficient solutions — with performance and user experience in mind.
 
-- 📫 How to reach me **yanhaizhou21@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
+
+#### 💻 Backend
+- **Languages:** PHP, JavaScript  
+- **Frameworks:** Laravel  
+- **Databases:** MySQL, SQLite  
+
+#### 🎨 Frontend
+- **Styling:** Tailwind CSS  
+- **Libraries:** Alpine.js / Vue.js 
+
+#### ⚙️ Tools & Workflow
+- Git & GitHub  
+- Composer, NPM  
+- RESTful API Development  
+- MVC Architecture  
+- Clean Code & SOLID Principles  
+
+---
+
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [**stm(student teacher managemnet)**](#) | Short description of your app or tool | Laravel, Tailwind, sqlite |
+
+*(Add links to your public repositories once you upload them!)*
+
+---
+
+### 🧠 Currently Learning
+- Advanced Laravel ecosystem (Queues, Events, Livewire)  
+- Building scalable REST APIs  
+- Tailwind UI best practices  
+
+---
+
+### 💬 Let’s Connect
 <p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanhaizhou21@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+⭐️ _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_  
